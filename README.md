@@ -6,11 +6,11 @@
 2. mkdir ~/.kaggle
 3. mv path/to/kaggle.json ~/.kaggle/
 4. chmod 600 ~/.kaggle/kaggle.json
-5. kaggle datasets download -d surajghuwalewala/ham1000-segmentation-and-classification
-6. unzip ham1000-segmentation-and-classification.zip -d ham1000-segmentation-and-classification
+5. kaggle datasets download -d zenitsu157/university-of-waterloo-skin-cancer
+6. unzip university-of-waterloo-skin-cancer.zip -d university-of-waterloo-skin-cancer
 - If you are using Kaggle you should change the paths to:
-1. /kaggle/input/ham1000-segmentation-and-classification/images
-2. /kaggle/input/ham1000-segmentation-and-classification/masks
+1. /kaggle/input/university-of-waterloo-skin-cancer/img
+2. /kaggle/input/university-of-waterloo-skin-cancer/mask
 - Contributor: 
 1. Umut Çakır / MrHopee 
 2. Arda Aydın / abatuhan20
